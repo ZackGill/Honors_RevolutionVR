@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Scripts\Controller\GvrArmModelOffsets.cs">
+    <Files>
+      <File FileName="Assets\MenuControl.cs" Line="10" Column="1" />
+      <File FileName="Assets\Proto2Control.cs" Line="10" Column="41" />
+      <File FileName="Assets\BladeScript.cs" Line="16" Column="8" />
+      <File FileName="Assets\ExecutionControl.cs" Line="24" Column="1" />
+      <File FileName="Assets\GoogleVR\Scripts\Controller\GvrArmModelOffsets.cs" Line="56" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
