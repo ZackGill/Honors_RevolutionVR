@@ -8,17 +8,9 @@ public class MenuControl : MonoBehaviour {
 
 	public void EnglishClick(){
 		dump.language = 1; // 1 for English, else french
-		SceneManager.LoadScene("Proto1");
-		print ("English Click");
+		SceneManager.LoadScene("TennisCourtOath");
 	}
-
-	public void FrenchClick(){
-		dump.language = 0; // 1 for English, else french
-		SceneManager.LoadScene("Proto1");
-		print ("French Click");
-	}
-
-
+		
 	// Use this for initialization
 	void Start () {
 	
